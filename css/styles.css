@@ -125,3 +125,26 @@
 a {
     color: rgb(233, 146, 189);
   }
+
+
+  .van {
+    display: inline;
+}
+
+.cont {
+    position: relative;
+    width: 100%;
+}
+
+.image img {
+    width: 300px;
+    height: 4.5in;
+    height: 180px;
+    margin: 10px;
+}
+
+.title {
+    width: 100px;
+    position: absolute;
+    bottom: 0; left: 0;
+}

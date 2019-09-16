@@ -1,10 +1,5 @@
 # portfolio-landing-page
-project or program name
-author name
-description of project
-project setup instructions
-link to live site on GitHub Pages
-copyright and license information
+
 
 --------portfolio landing page-------
 author: Kipngetich Mutai Nehemiah
@@ -18,5 +13,5 @@ author: Kipngetich Mutai Nehemiah
    ACCESS THE WEBSITE BY TAPPING THE ABOVE LINK OR COPY AND PASTING IT ON YOUR WWW/BROWSER SEARCH BAR.
 
 -------LINK------
-
+http://kipnget.github.io/portfolio-landing-page
 COPYRIGHT AND LICENSE INFORMATION
